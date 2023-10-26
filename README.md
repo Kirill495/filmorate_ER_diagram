@@ -1,6 +1,6 @@
 # filmorate_ER_diagram
 ER-диаграмма для задачи filmorate
-[!https://github.com/Kirill495/filmorate_ER_diagram/blob/main/Filmorate_ER.png]
+![ER-diagram](https://github.com/Kirill495/filmorate_ER_diagram/blob/main/Filmorate_ER.png)
 ## Сущности
 ### user
 хранит сведения о пользователях системы
